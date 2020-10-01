@@ -1,2 +1,2 @@
-# Exercise_Website
+# Exercise Website
 A website for Tracking my workout progress.
